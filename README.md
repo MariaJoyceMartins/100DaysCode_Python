@@ -1,4 +1,4 @@
-**Welcome to My 100 Days of Python Journey!**  
+**Welcome to my "100 Days of Python" journey!**  
 *Thank you for visiting—it’s a pleasure to have you here!*  
 
 ---
