@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3aa20b17-dc0c-409b-944e-ada375cc0172" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Day 2/Day 2 - data analyst calculator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 2/Notes Day 2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 1 - second project.py" beforeDir="false" afterPath="$PROJECT_DIR$/[PT-BR] Day 1 - decifra-me ou te devoro.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 2/Day 2 - data analyst calculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 2/Day 2 - data analyst calculator.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,12 +29,12 @@
     &quot;assignee&quot;: &quot;MariaJoyceMartins&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/MariaJoyceMartins/100DaysCode_Python.git",
-    "accountId": "d03877bd-737f-4dc3-9594-b5377fa4de85"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/MariaJoyceMartins/100DaysCode_Python.git&quot;,
+    &quot;accountId&quot;: &quot;d03877bd-737f-4dc3-9594-b5377fa4de85&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
@@ -49,6 +47,7 @@
   &quot;keyToString&quot;: {
     &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
     &quot;Python.Day 1 - second project.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Day 2 - data analyst calculator.executor&quot;: &quot;Run&quot;,
     &quot;Python.Day 2.executor&quot;: &quot;Run&quot;,
     &quot;Python.Day1.executor&quot;: &quot;Run&quot;,
     &quot;Python.main.executor&quot;: &quot;Run&quot;,
@@ -113,7 +112,9 @@
       <workItem from="1745759196003" duration="12317000" />
       <workItem from="1746313118095" duration="2250000" />
       <workItem from="1746326224633" duration="11028000" />
-      <workItem from="1746537337463" duration="1618000" />
+      <workItem from="1746537337463" duration="9745000" />
+      <workItem from="1746887634420" duration="8142000" />
+      <workItem from="1746903884561" duration="12708000" />
     </task>
     <servers />
   </component>
@@ -121,8 +122,9 @@
     <option name="version" value="3" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/100DaysCodePython$main.coverage" NAME="main Coverage Results" MODIFIED="1746398072233" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/100DaysCodePython$main.coverage" NAME="main Coverage Results" MODIFIED="1746904036511" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/100DaysCodePython$Day_2.coverage" NAME="Day 2 Coverage Results" MODIFIED="1746409863684" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/100DaysCodePython$Day_2___data_analyst_calculator.coverage" NAME="Day 2 - data analyst calculator Coverage Results" MODIFIED="1746922525989" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 2" />
     <SUITE FILE_PATH="coverage/100DaysCodePython$Day_1___second_project.coverage" NAME="Day 1 - second project Coverage Results" MODIFIED="1746309178760" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/100DaysCodePython$Day1.coverage" NAME="Day1 Coverage Results" MODIFIED="1745761918190" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
