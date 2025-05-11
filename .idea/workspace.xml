@@ -114,7 +114,7 @@
       <workItem from="1746326224633" duration="11028000" />
       <workItem from="1746537337463" duration="9745000" />
       <workItem from="1746887634420" duration="8142000" />
-      <workItem from="1746903884561" duration="12708000" />
+      <workItem from="1746903884561" duration="20359000" />
     </task>
     <servers />
   </component>
@@ -124,7 +124,7 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/100DaysCodePython$main.coverage" NAME="main Coverage Results" MODIFIED="1746904036511" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/100DaysCodePython$Day_2.coverage" NAME="Day 2 Coverage Results" MODIFIED="1746409863684" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/100DaysCodePython$Day_2___data_analyst_calculator.coverage" NAME="Day 2 - data analyst calculator Coverage Results" MODIFIED="1746922525989" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 2" />
+    <SUITE FILE_PATH="coverage/100DaysCodePython$Day_2___data_analyst_calculator.coverage" NAME="Day 2 - data analyst calculator Coverage Results" MODIFIED="1746998852791" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 2" />
     <SUITE FILE_PATH="coverage/100DaysCodePython$Day_1___second_project.coverage" NAME="Day 1 - second project Coverage Results" MODIFIED="1746309178760" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/100DaysCodePython$Day1.coverage" NAME="Day1 Coverage Results" MODIFIED="1745761918190" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
