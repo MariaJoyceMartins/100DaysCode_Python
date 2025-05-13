@@ -121,13 +121,13 @@ def calculate_min():
 
 calculate_min()
 
-# Calculate Conversation Rate
+# Calculate Conversion Rate
 def calculate_conversation_rate():
     print("\nCalculadora de Taxa de Conversão")
-    conversation = float(input("Digite o número de conversões: "))
+    conversion = float(input("Digite o número de conversões: "))
     visitors = float(input("Digite o número de visitantes: "))
-    conversation_rate = (conversation/visitors) * 100
-    print(f"A taxa de conversão é de {conversation_rate:.2f}%\n")
+    conversion_rate = (conversion/visitors) * 100
+    print(f"A taxa de conversão é de {conversion_rate:.2f}%\n")
 
 calculate_conversation_rate()
 
