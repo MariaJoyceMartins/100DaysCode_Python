@@ -1,28 +1,36 @@
 # Challenge - To a Pizza Delivery Program
 
-print("Welcone to Pytohn Pizza Deliveries!")
+print("Welcome to Joy Pizza Deliveries!")
 size = input("What size pizza do you want? (S, M or L): ")
 pepperoni = input("Do you want pepperoni on your pizza? (Y or N): ")
 extra_cheese = input("Do you want extra cheese? (Y or N): ")
 
+bill: int = 0
 if size == "S":
-    value = 15
+    bill += 15
 elif size == "M":
-    value = 20
+    bill += 20
+elif size == "L":
+    bill += 25
 else:
-    value = 25
+    print("Please, type a valid size")
 
 if pepperoni == "Y":
-    value += 2
+    if size == "S":
+        bill += 2
 else:
-    value == value
+    bill += 3
 
 if extra_cheese == "Y":
-    value += 3
+    bill += 1
 else:
-    value == value
+    bill == bill
 
 
+if extra_cheese == "Y":
+    bill += 1
+
+print(f"You bill is: ${bill}")
 
 
 
