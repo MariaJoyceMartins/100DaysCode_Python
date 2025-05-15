@@ -33,4 +33,14 @@ if extra_cheese == "Y":
 print(f"You bill is: ${bill}")
 
 
+###Logical Operators
+# if condition 1 & condition 2 $ condition 3
+# do this
+# else:
+# do this other thing
+
+# A and B ---> all need to be true of false
+# C or D
+# not E
+
 
