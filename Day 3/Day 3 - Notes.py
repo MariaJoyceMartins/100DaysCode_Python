@@ -43,4 +43,34 @@ print(f"You bill is: ${bill}")
 # C or D
 # not E
 
+Maria
+Joyce
+Martins
+Rabelo < maria.rabelo @ getninjas.com.br >
 
+10: 35 PM(0
+minutes
+ago)
+
+to
+me
+# In the python console, if we type
+# a = 12
+# a > 10 or a < 10
+# The console will show: True
+
+# Other case is:
+# not a < 0
+# The console will show: True
+# not False
+# The console will show: True
+# not True
+# The console will show: False
+
+# Uptade the code so that people age 45 to 55 (inclusive of both ages) ride for free. Use logical operators to check that age is greather than 45, and it´s also less than 55
+
+age = int(input("Type your age!"))
+if age >= 45 and age <= 55:
+    print("You can ride for free!")
+else:
+    print("You can´t ride por free")
