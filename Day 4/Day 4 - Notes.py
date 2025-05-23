@@ -43,3 +43,14 @@ print(states_of_brazil)
 # to add multiple items to a list
 states_of_brazil.extend(["Rio Grande do Norte", "Bahia", "Acré", "Roraima", "Amazonas", "Tocantins", "Santa Catarina", "Maranhão", "Pará"])
 print(states_of_brazil)
+
+
+# Challenge: Criar um sistema com que diz quem vai pagar a conta, sendo decidido de forma aleatoria
+
+import random as rd
+
+friends = ["Ana", "Beatriz", "Carla", "Dennis", "Esmeralda"]
+
+random = rd.choice(friends)
+
+print(random)

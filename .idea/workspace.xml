@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3aa20b17-dc0c-409b-944e-ada375cc0172" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Day 4/Day 4 - Notes.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 4/Day 4 - Notes.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 4/Day 4 - Notes.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -120,7 +120,7 @@
       <workItem from="1746887634420" duration="8142000" />
       <workItem from="1746903884561" duration="29222000" />
       <workItem from="1747274753243" duration="8923000" />
-      <workItem from="1747830443996" duration="3299000" />
+      <workItem from="1747830443996" duration="5079000" />
     </task>
     <servers />
   </component>
@@ -132,7 +132,7 @@
     <SUITE FILE_PATH="coverage/100DaysCodePython$main.coverage" NAME="main Coverage Results" MODIFIED="1747830934106" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/100DaysCodePython$Day_2.coverage" NAME="Day 2 Coverage Results" MODIFIED="1746409863684" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/100DaysCodePython$Day_2___data_analyst_calculator.coverage" NAME="Day 2 - data analyst calculator Coverage Results" MODIFIED="1747099614106" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 2" />
-    <SUITE FILE_PATH="coverage/100DaysCodePython$Day_4___Notes.coverage" NAME="Day 4 - Notes Coverage Results" MODIFIED="1747833694988" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 4" />
+    <SUITE FILE_PATH="coverage/100DaysCodePython$Day_4___Notes.coverage" NAME="Day 4 - Notes Coverage Results" MODIFIED="1747834035300" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 4" />
     <SUITE FILE_PATH="coverage/100DaysCodePython$Day_3___Treasure_Game.coverage" NAME="Day 3 - Treasure Game Coverage Results" MODIFIED="1747790000068" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day 3" />
     <SUITE FILE_PATH="coverage/100DaysCodePython$Day_1___second_project.coverage" NAME="Day 1 - second project Coverage Results" MODIFIED="1746309178760" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/100DaysCodePython$Day1.coverage" NAME="Day1 Coverage Results" MODIFIED="1745761918190" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
