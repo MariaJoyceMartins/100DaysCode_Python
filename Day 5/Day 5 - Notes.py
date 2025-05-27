@@ -17,3 +17,20 @@ for score in student_scores:
 
 print(sum)
 
+# Challenge: Create the max highest score
+
+student_score = [150, 139, 90]
+
+max_score = 0
+for score in student_score:
+    if score > max_score:
+        max_score = score
+
+print(max_score)
+
+
+# Range Function
+total = 0
+for number in range(1, 101):
+    total += number
+print(total)
