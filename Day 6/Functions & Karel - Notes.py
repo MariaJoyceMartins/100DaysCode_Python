@@ -16,3 +16,49 @@ def my_function():
 #After this, calling your function for this be execute when you run
 
 my_function()
+
+# Now, we use the website "Reeborg World" with the objetive of practice function for make a robot walk, the code used was:
+
+def robot_moviments():
+    move()
+    move()
+    turn_left()
+    move()
+    move()
+    move()
+    turn_left()
+    move()
+    move()
+    move()
+
+robot_moviments()
+
+# Other possibility is:
+
+def robot_moviments():
+    move()
+    move()
+    turn_left()
+    move()
+    move()
+    move()
+    turn_left()
+    move()
+
+
+robot_moviments()
+turn_left()
+move()
+move()
+
+# Challenge: Create a code that create a function to turn right the robot
+
+def turn_right():
+    move()
+    turn_left()
+    move()
+    turn_left()
+    turn_left()
+    turn_left()
+    move()
+    move()
