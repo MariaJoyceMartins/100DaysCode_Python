@@ -62,3 +62,17 @@ def turn_right():
     turn_left()
     move()
     move()
+
+# Indentation - Is what have inside of the function
+def my_function():
+    print("Hello") # The indentation have this space for indicate that is inside the functiob
+    print("World")
+
+# Become more complicated when you have an indentation within an indentation
+def drink_coffee():
+    if coffee = "Empty":
+        print("fill your cup")
+    else:
+        print("drink coffee")
+
+drink_coffee()
