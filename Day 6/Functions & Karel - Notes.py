@@ -76,3 +76,5 @@ def drink_coffee():
         print("drink coffee")
 
 drink_coffee()
+
+# For organize a indentation, you can use a tab, instead of spaces, but according to python oficial documentacion, the best method for indentation is space
