@@ -1,6 +1,18 @@
 # Check the minimum stock
 
-user_input = input("Please, enter the number of t-shirt")
+total_stock = input("Please, enter the total stock")
+exit() #This part is the beginning of the program, after that, the user decide if he what to start the program
 
-while user_input:
-    
+def start_of_system():
+    user_decide = input("Do you wanna to start the program?")
+    if user_decide == "yes":
+        print(stock)
+    else:
+        exit()
+
+
+stock = input("Please, enter the quantity of items removed")
+
+start_of_system()
+
+
