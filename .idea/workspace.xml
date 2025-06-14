@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="3aa20b17-dc0c-409b-944e-ada375cc0172" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 6 - Functions/Day 6 - Measurement Conversion Calculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 6 - Functions/Day 6 - Measurement Conversion Calculator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day 6 - Functions/Day 6 - Conversion of thermometric scales.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 6 - Functions/Day 6 - Conversion of thermometric scales.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,34 +43,34 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.Day 1 - second project.executor": "Run",
-    "Python.Day 2 - data analyst calculator.executor": "Run",
-    "Python.Day 2.executor": "Run",
-    "Python.Day 3 - Notes.executor": "Run",
-    "Python.Day 3 - Treasure Game.executor": "Run",
-    "Python.Day 4 - Notes.executor": "Run",
-    "Python.Day 4 - Project.executor": "Run",
-    "Python.Day 5 - Notes.executor": "Run",
-    "Python.Day 5 - Project.executor": "Run",
-    "Python.Day 6 - Measurement Conversion Calculator.executor": "Run",
-    "Python.Day 6 - Project.executor": "Run",
-    "Python.Day1.executor": "Run",
-    "Python.Notes HangMan - Day 7.executor": "Run",
-    "Python.main.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.Day 1 - second project.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Day 2 - data analyst calculator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Day 2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Day 3 - Notes.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Day 3 - Treasure Game.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Day 4 - Notes.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Day 4 - Project.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Day 5 - Notes.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Day 5 - Project.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Day 6 - Measurement Conversion Calculator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Day 6 - Project.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Day1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Notes HangMan - Day 7.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\maria\PycharmProjects\100DaysCodePython" />

@@ -1,39 +1,59 @@
 # Conversion of thermometric scales
 
-print("Welcome to the calculator that converts thermometric scales\n")
+
+def start_screen():
+    print(""""Welcome to the Thermometric scale calculator!"
+    ------------------------------------------
+    Available conversions:
+    1. Celsius to Kelvin
+    2. Kelvin to Celsius
+    3. Fahrenheit to Celsius
+    4. Celsius to Fahrenheit
+    5. Fahrenheit to Kelvin
+    6. Kelvin to Fahrenheit
+    7. Exit
+          """")
+
+
+def get_temperature_input(prompt):
+    while true
+        try:
+            return float(input(prompt))
+        except ValueError:
+            print("Please enter a valid number: ")
+
 
 def celsius_to_kelvin():
-	celsius = int(input("Type the temperature in Celsius: "))
+	celsius = get_temperature_input(input("Type the temperature in Celsius: "))
 	kelvin = celsius + 273
-	print(f"The temperature in Kelvin is {kelvin}\n")
-celsius_to_kelvin()
+	print(f"\n{celsius:.2f}°C = {kelvin:.2f}K\n")
 
 def kelvin_to_celsius():
-	kelvin = int(input("Type the temperature in Kelvin: "))
+	kelvin = get_temperature_input(input("Type the temperature in Kelvin: "))
 	celsius = kelvin - 273
-	print(f"The temperature in celsius is {celsius}\n")
-kelvin_to_celsius()
+	print(f"\n{kelvin:.2f}K = {celsius:.2f}°C\n")
+
 
 def celsius_to_fahrenheit():
-    celsius = int(input("Type the temperature in Celsius: "))
+    celsius = get_temperature_input(input("Type the temperature in Celsius: "))
     fahrenheit = celsius * 1.8 + 32
-    print(f"The temperature in fahrenheit is {fahrenheit}\n")
-celsius_to_fahrenheit()
+    print(f"\n{celsius:.2f}°C = {fahrenheit:.2f}°F\n")
+
 
 def fahrenheit_to_celsius():
-    fahrenheit = int(input("Type the temperature in Fahrenheit: "))
+    fahrenheit = get_temperature_input(input("Type the temperature in Fahrenheit: "))
     celsius =(fahrenheit-32)/18
-    print(f"The temperature in celsius is {celsius:.2f}\n")
-fahrenheit_to_celsius()
+    print(f"\n{fahrenheit:.2f}°F = {celsius:.2f}°C\n")
+
 
 def fahrenheit_to_kelvin():
-    fahrenheit = int(input("Type the temperatue in fahrenheit: "))
+    fahrenheit = get_temperature_input(input("Type the temperatue in fahrenheit: "))
     kelvin =(fahrenheit-32) * 5/9 + 273
-    print(f"The temperature in kelvin is {kelvin:.2f}\n")
-fahrenheit_to_kelvin()
+    print(f"\n{fahrenheit:.2f}°F = {kelvin:.2f}K\n")
+
 
 def kelvin_to_fahrenheit():
-    kelvin = int(input("Type the temperature in Kelvin: "))
+    kelvin = get_temperature_input(input("Type the temperature in Kelvin: "))
     fahrenheit = (kelvin-273) * 1.8 + 32
-    print(f"The temperature in fahrenheit is {fahrenheit:.2f}\n")
-kelvin_to_fahrenheit()
+    print(f"\n{kelvin:.2f}K = {fahrenheit:.2f}°F\n")
+
